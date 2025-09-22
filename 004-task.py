@@ -4,8 +4,9 @@ def quad(number):
 
 
 my_list = [10, 5, 25, 8, 15]
-result =  min(my_list)
+result =  max(my_list)
 print(result)
 
 
 print(sorted([10, 5, 25, 8, 15]))
+
